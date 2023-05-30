@@ -1,4 +1,4 @@
-# Spell-Checker-Using-BSTrees
+# BSTree-Spell-Checker
  Implementation of a spell-checker program using BSTrees.
  The program allows users to enter a sentence and checks if the input sentence is spelled correctly or not.
 ## Contributors:
